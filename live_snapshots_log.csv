@@ -1,0 +1,6 @@
+fixture_id,time_elapsed,home_team,away_team,home_goals,away_goals,tempo_5min,home_xg,away_xg,xg_diff,importance,home_fixture_difficulty,away_fixture_difficulty,snapshot_goals,one_goal_more,confidence,over15_odds,under35_odds
+1208358,67,Arsenal,Chelsea,1,0,4.2,1.12,0.58,0.54,medium,3,4,1,1,0.7546624,,
+1208358,67,Arsenal,Chelsea,1,0,4.2,1.12,0.58,0.54,medium,3,4,1,1,0.7546624,,
+1208358,45,Manchester City,Aston Villa,1,1,0.0,0,0,0,medium,3,3,2,1,0.8592225,,
+1208358,45,Manchester City,Aston Villa,1,1,0.0,0,0,0,medium,3,3,2,1,0.8592225,,
+1208358,45,Manchester City,Aston Villa,1,1,0.0,0,0,0,medium,3,3,2,1,0.8592225,,
